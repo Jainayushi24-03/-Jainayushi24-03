@@ -174,32 +174,44 @@ Large PDF Question Answering using RAG
 ☁️ AI Deployment
 ## 📈 GitHub Analytics
 
+## 📈 GitHub Analytics
+
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anchal0610&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jainayushi24-03&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal0610&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainayushi24-03&layout=compact&theme=tokyonight"/>
 
 </p>
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anchal0610&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Jainayushi24-03&theme=tokyonight"/>
 
 </p>
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Anchal0610/Anchal0610/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Jainayushi24-03/Jainayushi24-03/output/github-contribution-grid-snake.svg"/>
 
 </p>
+
 ## 🌐 Connect With Me
 
-GitHub
+<p align="center">
+<a href="https://github.com/Jainayushi24-03">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-LinkedIn
+<a href="https://www.linkedin.com/in/ayushijain2403/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Email
+<a href="aj24032005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-Portfolio (Coming Soon)
 ⭐ Thanks for visiting my profile!
 
 Let's build intelligent software together 🚀
