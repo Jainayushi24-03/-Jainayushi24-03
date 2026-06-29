@@ -17,30 +17,17 @@ CrewAI • OpenAI • RAG • Streamlit • Python
 ## 👨‍💻 About Me
 
 🎓 Computer Science Student
-
 🤖 Building Multi-Agent AI Systems using CrewAI
-
 📄 Developing an AI-powered PDF Intelligence Platform
-
 🧠 Exploring RAG, Vector Search & LLMs
-
 ☕ Java & DSA Enthusiast
 
-🌱 Currently Learning
-
-* Advanced RAG
-* AI Agent Architectures
-* Mistral OCR
-* LangChain
-* Vector Databases
   ## 🚀 Tech Stack
 
 ### Languages
-
 Python • Java • C++ • JavaScript • Dart
 
 ### AI & LLM
-
 CrewAI
 
 OpenAI
@@ -68,8 +55,6 @@ ChromaDB
 Pinecone
 
 ### Backend
-
-Spring Boot
 
 REST APIs
 
@@ -100,7 +85,7 @@ VS Code
 Postman
 
 Streamlit
-[4:31 pm, 26/06/2026] Anchal🤍: ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 📄 PDF Intelligence Platform
 
@@ -159,7 +144,7 @@ Interview Questions Generator
 📚 Smart PDF Chat
 
 Large PDF Question Answering using RAG
-[4:32 pm, 26/06/2026] Anchal🤍: ## 🌱 Currently Working On
+## 🌱 Currently Working On
 
 🤖 Multi-Agent AI
 
